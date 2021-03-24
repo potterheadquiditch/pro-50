@@ -1,0 +1,17 @@
+.header,h1{
+    background-color: violet;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.origami{
+    border-radius: 20px;
+    background-color: turquoise;
+    font-family: fantasy;
+}
